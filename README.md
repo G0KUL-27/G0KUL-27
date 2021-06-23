@@ -1,5 +1,5 @@
 # Hello :D
-I am Gokul i really like to code in python I have many projects like 
+I am Gokul i really like to code in python, i am also a lichess player [Enticingseal](https://lichess.org/@/Enticingseal)
 ## Projects
 - [Oganization](https://github.com/PYTH0N-B0T)
  
